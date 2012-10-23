@@ -1,0 +1,17 @@
+cd /Users/yena/Documents/Learn/lisp/workbench/
+2 compiler notes:
+
+isemail.lisp:738:75:
+  note: 
+    deleting unreachable code
+    ==>
+      COM.AUTOMATICIT.IS_EMAIL::STATUS
+    
+
+isemail.lisp:743:75:
+  note: 
+    deleting unreachable code
+    ==>
+      COM.AUTOMATICIT.IS_EMAIL::ISEMAIL_RFC5321_IPV6DEPRECATED
+    
+
